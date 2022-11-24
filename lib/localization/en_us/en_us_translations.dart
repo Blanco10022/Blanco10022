@@ -1,0 +1,46 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "msg_privacy_policy": "Privacy Policy   Terms & Conditions",
+  "lbl_search": "Search",
+  "msg_report_a_cybercrime": "REPORT A CYBERCRIME",
+  "msg_cybercrime_fraud":
+      "Cybercrime/fraud refers to any illegal activity carried out using computers or the internet.",
+  "msg_cybersec_hacks_news": "Cybersec hacks,news and tricks in one place",
+  "msg_security_camera": "SECURITY CAMERA INSTALLATION",
+  "lbl_home": "Home",
+  "lbl_i_am_a_victim": "I AM A VICTIM ",
+  "msg_all_rights_reserved": "   All Rights Reserved KAMCYBER",
+  "msg_i_am_reporting_for": "I AM REPORTING FOR A VICTIM ",
+  "lbl_exapmle": "Exapmle@.",
+  "msg_schedule_a_software":
+      "Schedule a software installation, security audit, orsecurity camera installation with an IT specialist.",
+  "lbl_2022": "2022",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_security_audit": "SECURITY AUDIT ",
+  "lbl_next_page": "NEXT PAGE",
+  "msg_kamcyeber_services": "KAMCYEBER SERVICES",
+  "msg_i_am_reporting_as2": "I AM REPORTING AS A WITNESS",
+  "lbl_start_reporting": "Start Reporting",
+  "msg_check_your_app_s":
+      "Check your app's UI from the below demo screens of your app.",
+  "msg_report_a_crime": "REPORT A CRIME - Container",
+  "lbl_sign_in": "Sign In",
+  "lbl_email_adress": "Email Adress",
+  "msg_network_installation": "NETWORK INSTALLATION",
+  "lbl_home_page": "HOME PAGE",
+  "lbl_service": "Service",
+  "msg_i_am_reporting_as": "I AM REPORTING AS A BUSINESS",
+  "msg_application_installation": " APPLICATION INSTALLATION",
+  "lbl_report_crime": "Report Crime",
+  "lbl_user": "User",
+  "lbl_sign_up": "Sign up",
+  "lbl_password": "Password",
+  "lbl_service_page": "SERVICE PAGE",
+  "msg_welcome_to_kamcyber": "Welcome to KAMCYBER",
+  "lbl_remember_me": "Remember Me",
+  "msg_book_an_it_professional":
+      "Book an IT professional for the installation of authentic and licensed software such as Microsoft Office, Antiviruses, etc.",
+  "msg_please_select_the":
+      "Please select the option that best describes you as the reporter."
+};
